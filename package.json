@@ -1,0 +1,11 @@
+{
+  "name": "wrap-component",
+  "author": "Neal Granger <neal@nealg.com>",
+  "version": "0.1.0",
+  "license": "CC0-1.0",
+  "main": "index.js",
+  "repository": "nealgranger/wrap-component",
+  "dependencies": {
+    "hoist-non-react-statics": "^1.0.3"
+  }
+}
